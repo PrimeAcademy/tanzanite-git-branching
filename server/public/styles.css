@@ -22,5 +22,7 @@ header {
 }
 
 .team2 {
+  font-size: 3em;
   background-color: blue;
+  color: green;
 }

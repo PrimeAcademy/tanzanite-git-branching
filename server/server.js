@@ -11,3 +11,14 @@ app.use(express.static('server/public'));
 app.listen(PORT, () => {
     console.log('Listening on port: ', PORT);
 });
+
+// GET
+
+
+// POST
+
+
+// PUT
+
+
+// DELETE
