@@ -22,5 +22,7 @@ header {
 }
 
 .team2 {
-  background-color: gray;
+  font-size: 3em;
+  background-color: salmon;
+  color: green;
 }
