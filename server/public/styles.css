@@ -18,11 +18,11 @@ header {
 }
 
 .team1 {
-  background-color: gray;
+  background-color: red;
 }
 
 .team2 {
   font-size: 3em;
-  background-color: salmon;
+  background-color: blue;
   color: green;
 }
